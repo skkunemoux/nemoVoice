@@ -17,3 +17,5 @@ sudo apt-get install -y pulseaudio libpulse-dev osspd
 
 
 *이 기술은 SW스타랩으로부터 지원받았음.
+## Sources Used
+You can view sources used here: [licenses.xlsx](licenses.xlsx) (Generated via FOSSLight Source Scanner)
